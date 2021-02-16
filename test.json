@@ -1,11 +1,522 @@
 {
-  "DIY Attack Coat": {
-    "url": "https://letitdie.gamepedia.com/DIY_Attack_Coat",
-    "attr": {
-      "HP": "000%",
-      "STM": "000%",
-      "STR": "-005%",
-      "DEX": "+005%",
-      "VIT": "+005%",
-      "LUK": "+003%"
-    }}}
+  "Beam Katana": {
+    "url": "https://letitdie.gamepedia.com/Machete",
+    "BP": "01-10F",
+    "fraction": "War Ensemble",
+    "hands": "1-Handed",
+    "scaleing": {
+      "STR": "090%",
+      "DEX": "010%"
+    },
+    "tier_1": {
+      "level_0": {
+        "HP": "200",
+        "Atk": "30",
+        "SPL": "5",
+        "KC": "4030",
+        "Durab": "1400",
+        "research_time": "000:01",
+        "restock_time": "000:01",
+        "materials": {
+          "Iron Scraps": "1"
+        }
+      },
+      "level_1": {
+        "HP": "204",
+        "Atk": "32",
+        "SPL": "7",
+        "KC": "4231",
+        "Durab": "1470",
+        "research_time": "000:03",
+        "restock_time": "000:02",
+        "materials": {
+          "Iron Scraps": "1"
+        }
+      },
+      "level_2": {
+        "HP": "208",
+        "Atk": "35",
+        "SPL": "10",
+        "KC": "4443",
+        "Durab": "1543",
+        "research_time": "000:05",
+        "restock_time": "000:03",
+        "materials": {
+          "Iron Scraps": "1"
+        }
+      },
+      "level_3": {
+        "HP": "212",
+        "Atk": "38",
+        "SPL": "14",
+        "KC": "4665",
+        "Durab": "1620",
+        "research_time": "000:07",
+        "restock_time": "000:04",
+        "materials": {
+          "Iron Scraps": "1"
+        }
+      },
+      "level_4": {
+        "HP": "216",
+        "Atk": "42",
+        "SPL": "21",
+        "KC": "4898",
+        "Durab": "1701",
+        "research_time": "000:09",
+        "restock_time": "000:05",
+        "materials": {
+          "Iron Scraps": "1"
+        }
+      },
+      "damage": {
+        "100%": "Slash"
+      }
+    },
+    "tier_2": {
+      "level_0": {
+        "STR": "25",
+        "Atk": "77",
+        "SPL": "500",
+        "KC": "7137",
+        "Durab": "1400",
+        "research_time": "000:10",
+        "restock_time": "000:08",
+        "materials": {
+          "MDF": "1",
+          "Wire Mountain": "1"
+        }
+      },
+      "level_1": {
+        "STR": "25",
+        "Atk": "83",
+        "SPL": "775",
+        "KC": "7493",
+        "Durab": "1470",
+        "research_time": "000:15",
+        "restock_time": "000:10",
+        "materials": {
+          "MDF": "1",
+          "Wire Mountain": "1"
+        }
+      },
+      "level_2": {
+        "STR": "26",
+        "Atk": "91",
+        "SPL": "1201",
+        "KC": "7868",
+        "Durab": "1543",
+        "research_time": "000:20",
+        "restock_time": "000:12",
+        "materials": {
+          "MDF": "1",
+          "Wire Mountain": "1"
+        }
+      },
+      "level_3": {
+        "STR": "26",
+        "Atk": "99",
+        "SPL": "1861",
+        "KC": "8261",
+        "Durab": "1620",
+        "research_time": "000:25",
+        "restock_time": "000:14",
+        "materials": {
+          "MDF": "1",
+          "Wire Mountain": "1"
+        }
+      },
+      "level_4": {
+        "STR": "27",
+        "Atk": "108",
+        "SPL": "2886",
+        "KC": "8675",
+        "Durab": "1701",
+        "research_time": "000:30",
+        "restock_time": "000:16",
+        "materials": {
+          "MDF": "1",
+          "Wire Mountain": "1"
+        }
+      },
+      "damage": {
+        "100%": "Slash"
+      }
+    },
+    "tier_3": {
+      "level_0": {
+        "STR": "88",
+        "Atk": "527",
+        "SPL": "25000",
+        "KC": "16458",
+        "Durab": "1400",
+        "research_time": "001:20",
+        "restock_time": "000:30",
+        "materials": {
+          "D.O.D. ARMS Red Metal": "2",
+          "Candle Wolf Blue Metal": "1"
+        }
+      },
+      "level_1": {
+        "STR": "89",
+        "Atk": "553",
+        "SPL": "26250",
+        "KC": "17280",
+        "Durab": "1470",
+        "research_time": "001:40",
+        "restock_time": "000:35",
+        "materials": {
+          "D.O.D. ARMS Red Metal": "2",
+          "Candle Wolf Blue Metal": "1"
+        }
+      },
+      "level_2": {
+        "STR": "91",
+        "Atk": "581",
+        "SPL": "27562",
+        "KC": "18144",
+        "Durab": "1543",
+        "research_time": "002:00",
+        "restock_time": "000:40",
+        "materials": {
+          "D.O.D. ARMS Red Metal": "2",
+          "Candle Wolf Blue Metal": "1"
+        }
+      },
+      "level_3": {
+        "STR": "93",
+        "Atk": "610",
+        "SPL": "28940",
+        "KC": "19052",
+        "Durab": "1620",
+        "research_time": "002:20",
+        "restock_time": "000:45",
+        "materials": {
+          "D.O.D. ARMS Red Metal": "2",
+          "Candle Wolf Blue Metal": "1"
+        }
+      },
+      "level_4": {
+        "STR": "95",
+        "Atk": "640",
+        "SPL": "30387",
+        "KC": "20004",
+        "Durab": "1701",
+        "research_time": "002:40",
+        "restock_time": "000:50",
+        "materials": {
+          "D.O.D. ARMS Red Metal": "2",
+          "Candle Wolf Blue Metal": "1"
+        }
+      },
+      "damage": {
+        "60%": "Slash",
+        "40%": "Electric"
+      }
+    },
+    "tier_4": {
+      "level_0": {
+        "STR": "100",
+        "Atk": "2881",
+        "SPL": "79000",
+        "KC": "22672",
+        "Durab": "1400",
+        "research_time": "003:00",
+        "restock_time": "001:00",
+        "materials": {
+          "Ultra-pure Iron": "1",
+          "D.O.D. ARMS Red Metal": "1",
+          "M.I.L.K. Red Metal": "1",
+          "Silver Skillshroom": "1"
+        }
+      },
+      "level_1": {
+        "STR": "102",
+        "Atk": "3025",
+        "SPL": "82950",
+        "KC": "23805",
+        "Durab": "1470",
+        "research_time": "004:00",
+        "restock_time": "001:10",
+        "materials": {
+          "Ultra-pure Iron": "2",
+          "D.O.D. ARMS Red Metal": "1",
+          "M.I.L.K. Red Metal": "1",
+          "Silver Skillshroom": "1"
+        }
+      },
+      "level_2": {
+        "STR": "104",
+        "Atk": "3176",
+        "SPL": "87097",
+        "KC": "24995",
+        "Durab": "1543",
+        "research_time": "005:00",
+        "restock_time": "001:20",
+        "materials": {
+          "Ultra-pure Iron": "3",
+          "D.O.D. ARMS Red Metal": "1",
+          "M.I.L.K. Red Metal": "1",
+          "Silver Skillshroom": "1"
+        }
+      },
+      "level_3": {
+        "STR": "106",
+        "Atk": "3335",
+        "SPL": "91452",
+        "KC": "26245",
+        "Durab": "1620",
+        "research_time": "006:00",
+        "restock_time": "001:30",
+        "materials": {
+          "Ultra-pure Iron": "4",
+          "D.O.D. ARMS Red Metal": "1",
+          "M.I.L.K. Red Metal": "1",
+          "Silver Skillshroom": "1"
+        }
+      },
+      "level_4": {
+        "STR": "108",
+        "Atk": "3501",
+        "SPL": "96024",
+        "KC": "27557",
+        "Durab": "1701",
+        "research_time": "007:00",
+        "restock_time": "001:40",
+        "materials": {
+          "Ultra-pure Iron": "5",
+          "D.O.D. ARMS Red Metal": "1",
+          "M.I.L.K. Red Metal": "1",
+          "Silver Skillshroom": "1"
+        }
+      },
+      "damage": {
+        "50%": "Electric"
+      }
+    },
+    "tier_5": {
+      "level_5": {
+        "STR": "110",
+        "Atk": "3601",
+        "SPL": "100825",
+        "KC": "68016",
+        "Durab": "7000",
+        "research_time": "003:00",
+        "restock_time": "002:00",
+        "materials": {
+          "D.O.D. ARMS Purple Metal": "2"
+        }
+      },
+      "level_6": {
+        "STR": "112",
+        "Atk": "3709",
+        "SPL": "101833",
+        "KC": "69376",
+        "Durab": "7140",
+        "research_time": "004:00",
+        "restock_time": "002:05",
+        "materials": {
+          "D.O.D. ARMS Purple Metal": "2"
+        }
+      },
+      "level_7": {
+        "STR": "114",
+        "Atk": "3820",
+        "SPL": "102851",
+        "KC": "70763",
+        "Durab": "7282",
+        "research_time": "005:00",
+        "restock_time": "002:10",
+        "materials": {
+          "D.O.D. ARMS Purple Metal": "2"
+        }
+      },
+      "level_8": {
+        "STR": "116",
+        "Atk": "3934",
+        "SPL": "103880",
+        "KC": "72179",
+        "Durab": "7428",
+        "research_time": "006:00",
+        "restock_time": "002:15",
+        "materials": {
+          "Aluminum Alloy 9050": "1",
+          "D.O.D. ARMS Purple Metal": "2",
+          "D.O.D. ARMS Orange Metal": "1"
+        }
+      },
+      "level_9": {
+        "STR": "119",
+        "Atk": "4052",
+        "SPL": "104918",
+        "KC": "73622",
+        "Durab": "7577",
+        "research_time": "007:00",
+        "restock_time": "002:20",
+        "materials": {
+          "Aluminum Alloy 9050": "1",
+          "D.O.D. ARMS Purple Metal": "2",
+          "D.O.D. ARMS Orange Metal": "1"
+        }
+      },
+      "level_10": {
+        "STR": "121",
+        "Atk": "4174",
+        "SPL": "105968",
+        "KC": "75095",
+        "Durab": "7728",
+        "research_time": "008:00",
+        "restock_time": "002:25",
+        "materials": {
+          "Aluminum Alloy 9050": "1",
+          "D.O.D. ARMS Purple Metal": "2",
+          "D.O.D. ARMS Orange Metal": "1"
+        }
+      },
+      "level_11": {
+        "STR": "123",
+        "Atk": "4299",
+        "SPL": "107027",
+        "KC": "76597",
+        "Durab": "7883",
+        "research_time": "009:00",
+        "restock_time": "002:30",
+        "materials": {
+          "Aluminum Alloy 9050": "1",
+          "D.O.D. ARMS Purple Metal": "2",
+          "D.O.D. ARMS Orange Metal": "1"
+        }
+      },
+      "level_12": {
+        "STR": "126",
+        "Atk": "4428",
+        "SPL": "108098",
+        "KC": "78129",
+        "Durab": "8040",
+        "research_time": "010:00",
+        "restock_time": "002:35",
+        "materials": {
+          "Aluminum Alloy 9050": "2",
+          "Lignum Vitae": "1",
+          "D.O.D. ARMS Purple Metal": "2",
+          "D.O.D. ARMS Orange Metal": "2",
+          "D.O.D. ARMS Platinum Metal": "1"
+        }
+      },
+      "level_13": {
+        "STR": "128",
+        "Atk": "4561",
+        "SPL": "109179",
+        "KC": "79691",
+        "Durab": "8201",
+        "research_time": "011:00",
+        "restock_time": "002:40",
+        "materials": {
+          "Aluminum Alloy 9050": "2",
+          "Lignum Vitae": "1",
+          "D.O.D. ARMS Purple Metal": "2",
+          "D.O.D. ARMS Orange Metal": "2",
+          "D.O.D. ARMS Platinum Metal": "1"
+        }
+      },
+      "level_14": {
+        "STR": "131",
+        "Atk": "4698",
+        "SPL": "110270",
+        "KC": "81285",
+        "Durab": "8365",
+        "research_time": "012:00",
+        "restock_time": "002:45",
+        "materials": {
+          "Aluminum Alloy 9050": "2",
+          "Lignum Vitae": "1",
+          "D.O.D. ARMS Purple Metal": "2",
+          "D.O.D. ARMS Orange Metal": "2",
+          "D.O.D. ARMS Platinum Metal": "1"
+        }
+      },
+      "level_15": {
+        "STR": "134",
+        "Atk": "4839",
+        "SPL": "111373",
+        "KC": "82911",
+        "Durab": "8532",
+        "research_time": "013:00",
+        "restock_time": "002:50",
+        "materials": {
+          "Aluminum Alloy 9050": "2",
+          "Lignum Vitae": "1",
+          "D.O.D. ARMS Purple Metal": "2",
+          "D.O.D. ARMS Orange Metal": "2",
+          "D.O.D. ARMS Platinum Metal": "1"
+        }
+      },
+      "level_16": {
+        "STR": "136",
+        "Atk": "4984",
+        "SPL": "112487",
+        "KC": "84569",
+        "Durab": "8703",
+        "research_time": "014:00",
+        "restock_time": "002:55",
+        "materials": {
+          "Aluminum Alloy 9050": "3",
+          "Lignum Vitae": "1",
+          "D.O.D. ARMS Purple Metal": "2",
+          "D.O.D. ARMS Orange Metal": "3",
+          "D.O.D. ARMS Platinum Metal": "1"
+        }
+      },
+      "level_17": {
+        "STR": "139",
+        "Atk": "5134",
+        "SPL": "113612",
+        "KC": "86260",
+        "Durab": "8877",
+        "research_time": "015:00",
+        "restock_time": "003:00",
+        "materials": {
+          "Aluminum Alloy 9050": "3",
+          "Lignum Vitae": "1",
+          "D.O.D. ARMS Purple Metal": "2",
+          "D.O.D. ARMS Orange Metal": "3",
+          "D.O.D. ARMS Platinum Metal": "1"
+        }
+      },
+      "level_18": {
+        "STR": "142",
+        "Atk": "5288",
+        "SPL": "114748",
+        "KC": "87985",
+        "Durab": "9055",
+        "research_time": "016:00",
+        "restock_time": "003:05",
+        "materials": {
+          "Aluminum Alloy 9050": "3",
+          "Lignum Vitae": "1",
+          "D.O.D. ARMS Purple Metal": "2",
+          "D.O.D. ARMS Orange Metal": "3",
+          "D.O.D. ARMS Platinum Metal": "1"
+        }
+      },
+      "level_19": {
+        "STR": "145",
+        "Atk": "5446",
+        "SPL": "115895",
+        "KC": "89745",
+        "Durab": "9236",
+        "research_time": "017:00",
+        "restock_time": "003:10",
+        "materials": {
+          "Aluminum Alloy 9050": "3",
+          "Lignum Vitae": "1",
+          "D.O.D. ARMS Purple Metal": "2",
+          "D.O.D. ARMS Orange Metal": "3",
+          "D.O.D. ARMS Platinum Metal": "1"
+        }
+      },
+      "damage": {
+        "50%": "Electric"
+      }
+    }
+  }
